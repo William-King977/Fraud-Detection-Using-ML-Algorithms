@@ -1,4 +1,5 @@
 William King
+Fraud Detection Using Machine Learning Algorithms (3rd Year Undergrad Project)
 Last Updated: July 7th 2020
 
 This directory holds:
