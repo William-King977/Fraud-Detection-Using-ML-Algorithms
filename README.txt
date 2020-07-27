@@ -1,6 +1,12 @@
 William King
 Fraud Detection Using Machine Learning Algorithms (3rd Year Undergrad Project)
-Last Updated: July 7th 2020
+Last Updated: July 27th 2020
+
+About:
+- Both unsupervised and supervised machine learning algorithms are used on two different contexts of fraud. 
+- The performances of each model is explored with the use of performance metrics, permutation importance and 
+  PDPBox plots.
+- A visualisation tool is then built to help visualise and interact with each model's predictions.
 
 This directory holds:
 - DataSets:	   Folder holding the data sets used for the project.
