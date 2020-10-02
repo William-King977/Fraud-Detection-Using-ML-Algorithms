@@ -22,9 +22,8 @@
  - You can also drag the graphs (they're multi-coordinated).
 
 # Video Demonstrations
-These were both made before the project submission date.
-- <b>Audit Data:</b> https://www.youtube.com/watch?v=0MT4lMd9jIQ
-- <b>Warranty Claims:</b> https://www.youtube.com/watch?v=AaHD76jFN_s
+- <b>Audit Data:</b> https://youtu.be/2TMcmD4Z760
+- <b>Warranty Claims:</b> https://youtu.be/Bbh1wYEoN5E
 
 # UPDATES SINCE PROJECT SUBMISSION:
  - Added dynamic axis selection for the visualisation tools.
